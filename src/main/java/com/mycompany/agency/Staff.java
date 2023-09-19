@@ -3,8 +3,7 @@ package com.mycompany.agency;
 
 
 
-public class Staff
-{
+public class Staff {
     private StaffMember[] staffList;
 
     //-----------------------------------------------------------------
