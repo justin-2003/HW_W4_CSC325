@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafb6026-9565-4049-a454-504bf159852f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="dafb6026-9565-4049-a454-504bf159852f" name="Changes" comment="intern code complete and fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/agency/Intern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/agency/Intern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +28,9 @@
         <option name="url" value="https://github.com/justin-2003/HW_W4_CSC325.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -66,9 +67,75 @@
       <workItem from="1695251887632" duration="170000" />
       <workItem from="1695252064215" duration="14000" />
     </task>
+    <task id="LOCAL-00001" summary="intern code comolete">
+      <option name="closed" value="true" />
+      <created>1695402717390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695402717390</updated>
+    </task>
+    <task id="LOCAL-00002" summary="intern code complete">
+      <option name="closed" value="true" />
+      <created>1695402727430</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695402727430</updated>
+    </task>
+    <task id="LOCAL-00003" summary="intern code complete">
+      <option name="closed" value="true" />
+      <created>1695402803194</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695402803194</updated>
+    </task>
+    <task id="LOCAL-00004" summary="intern code complete">
+      <option name="closed" value="true" />
+      <created>1695402814212</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695402814212</updated>
+    </task>
+    <task id="LOCAL-00005" summary="intern code complete">
+      <option name="closed" value="true" />
+      <created>1695404785274</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695404785275</updated>
+    </task>
+    <task id="LOCAL-00006" summary="intern code complete and fixed">
+      <option name="closed" value="true" />
+      <created>1695404828438</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695404828438</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intern code comolete" />
+    <MESSAGE value="intern code complete" />
+    <MESSAGE value="intern code complete and fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="intern code complete and fixed" />
   </component>
 </project>
