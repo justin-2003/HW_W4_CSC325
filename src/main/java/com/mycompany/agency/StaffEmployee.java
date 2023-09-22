@@ -24,9 +24,12 @@ public class StaffEmployee extends StaffMember{
     // TODO 3: complete the implementation of toString to return information 
     //          about a staff employee as a string.
     //-----------------------------------------------------------------
+
     public String toString()
     {
-    
+        String str = String.format("Staff Employee:\nName: %s\nAddress: %s\nPhone: %s\n" +
+                "Social Security Number: $s\nPayRate: %s", name, address, phone, socialSecurityNumber, payRate);
+        return str;
     }
 
     //-----------------------------------------------------------------
@@ -34,6 +37,6 @@ public class StaffEmployee extends StaffMember{
     //-----------------------------------------------------------------
     public double pay()
     {
-       
+       return payRate;
     }
 }
