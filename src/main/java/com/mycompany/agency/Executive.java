@@ -15,6 +15,7 @@ public class Executive extends StaffEmployee {
         super(eName, eAddress, ePhone, socSecNumber, rate);
 
         bonus = 0;  // bonus has yet to be awarded
+        payRate = rate;
     }
 
     //-----------------------------------------------------------------
@@ -31,6 +32,6 @@ public class Executive extends StaffEmployee {
     //-----------------------------------------------------------------
     public double pay()
     {
-       return bonus + getPayRate();
+       return bonus + payRate;
     }
-}0
+}

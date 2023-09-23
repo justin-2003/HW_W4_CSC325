@@ -27,8 +27,10 @@ public class StaffEmployee extends StaffMember{
 
     public String toString()
     {
-        String str = String.format("Staff Employee:\nName: %s\nAddress: %s\nPhone: %s\n" +
-                "Social Security Number: $s\nPayRate: %s", name, address, phone, socialSecurityNumber, payRate);
+        String str = String.format("Name: %s\nAddress: %s\nPhone: %s", name, address, phone);
+        if (socialSecurityNumber != "") {
+            str = str + "\nSocial Security Number: " + socialSecurityNumber;
+        }
         return str;
     }
 
